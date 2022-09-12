@@ -1,4 +1,1 @@
-# Julian Herbert
-Welcome to my profile.
-
-Helping to make the web personal again, one silly project at a time.
+Welcome to my profile, feel free to look at the silly stuff i've done here
