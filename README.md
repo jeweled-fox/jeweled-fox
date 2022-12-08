@@ -1,1 +1,2 @@
-Welcome to my profile, feel free to look at the silly stuff i've done here
+## Welcome to my profile!
+There's a lot of miscellaneous stuff in here, some (most) repositories might be unmaintained.
