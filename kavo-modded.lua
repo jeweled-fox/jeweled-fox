@@ -57,11 +57,11 @@ local themes = {
 }
 local themeStyles = {
     Hacker = {
-        SchemeColor = Color3.fromRGB(30,30,30),
+        SchemeColor = Color3.fromRGB(50,50,50),
         Background = Color3.fromRGB(15,15,15),
         Header = Color3.fromRGB(20,20,20),
         TextColor = Color3.fromRGB(0,255,0),
-        ElementColor = Color3.fromRGB(50,50,50),
+        ElementColor = Color3.fromRGB(30,30,30),
         Font = "Code"
     },
     DarkTheme = {
